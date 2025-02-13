@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif)]
+[![MasterHead](https://github.com/ManiMala720/ManiMala720/blob/main/git.png)]
 <h1 align="center">Hi 👋, I'm Mani Mala</h1>
 <img align="right" src="https://user-images.githubusercontent.com/78480983/161280795-e3c3467a-2bcb-428e-9208-d26c6a7d9234.gif" alt="coding-girl" width="400"/>
 <h3 align="center">A passionate frontend developer from India</h3>
