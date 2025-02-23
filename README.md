@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Mani Mala</h1>
 <img align="right" src="https://user-images.githubusercontent.com/78480983/161280795-e3c3467a-2bcb-428e-9208-d26c6a7d9234.gif" alt="coding-girl" width="400"/>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">🎓 Final Year B.E CSE Student | 💻 Passionate Developer | 🚀 Tech Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manimala720&label=Profile%20views&color=0e75b6&style=flat" alt="manimala720" /> </p>
 
