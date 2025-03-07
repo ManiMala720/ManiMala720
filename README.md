@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manimala720&label=Profile%20views&color=0e75b6&style=flat" alt="manimala720" /> </p>
 
 - 🌱 I’m currently learning **MERN Stack**
-- 👀 Looking for opportunities in Software Development
+- 👀 Looking for job opportunities in Software Development
 - 📫 How to reach me **rmanimala15@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
