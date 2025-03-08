@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 - 👀 Looking for job opportunities in Software Development
-- 📫 How to reach me 📧 **rmanimala15@gmail.com** 
+- 📫 How to reach me **rmanimala15@gmail.com** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
